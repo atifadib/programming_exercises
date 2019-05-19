@@ -1,5 +1,5 @@
 # programming_exercises
-Contains Notebook with Programming Exercises with Solutions
+Contains Notebook with Programming Exercises and their Solutions
 
 - Longest Increasing Subsequence in a List of Numbers
 - Anagram Indicies Problem
