@@ -7,3 +7,4 @@ Contains Notebook with Programming Exercises and their Solutions
 - Subset Sum Problem (Extension of the Previous Problem)
 - Product Array of a given array, [1,2,3] --> [6,3,2]
 - Serialize and Deserialize a Binary Tree
+- Find the First missing Positive Integers in a List
