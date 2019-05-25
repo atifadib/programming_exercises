@@ -8,3 +8,6 @@ Contains Notebook with Programming Exercises and their Solutions
 - Product Array of a given array, [1,2,3] --> [6,3,2]
 - Serialize and Deserialize a Binary Tree
 - Find the First missing Positive Integers in a List
+- Car and Cdr Functions for Tuples
+- XOR Linked List in Python
+- Number of Ways to Decode a Message
