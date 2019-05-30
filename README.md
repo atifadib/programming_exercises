@@ -12,3 +12,5 @@ Contains Notebook with Programming Exercises and their Solutions
 - XOR Linked List in Python
 - Number of Ways to Decode a Message
 - Scheduler Using a Decorator Design Pattern
+- Non Adjacent Sum problem for an Array
+- Count Unival Trees in a Tree
