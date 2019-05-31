@@ -16,3 +16,4 @@ Contains Notebook with Programming Exercises and their Solutions
 - Count Unival Trees in a Tree
 - Autocomplete Implementation Using a Class-Method
 - N Staircase Problem
+- Longest Substring with N distinct Characters
