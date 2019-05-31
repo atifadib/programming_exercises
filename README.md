@@ -15,3 +15,4 @@ Contains Notebook with Programming Exercises and their Solutions
 - Non Adjacent Sum problem for an Array
 - Count Unival Trees in a Tree
 - Autocomplete Implementation Using a Class-Method
+- N Staircase Problem
