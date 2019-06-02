@@ -20,3 +20,4 @@ Contains Notebook with Programming Exercises and their Solutions
 - Adding two Linked lists with Carry over
 - Median of Two sorted Arrays
 - Finding an index in the array where arr[index]==index
+- Queue Design for a Simple E-Commerce Website
