@@ -19,3 +19,4 @@ Contains Notebook with Programming Exercises and their Solutions
 - Longest Substring with N distinct Characters
 - Adding two Linked lists with Carry over
 - Median of Two sorted Arrays
+- Finding an index in the array where arr[index]==index
