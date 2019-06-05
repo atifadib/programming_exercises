@@ -21,3 +21,8 @@ Contains Notebook with Programming Exercises and their Solutions
 - Median of Two sorted Arrays
 - Finding an index in the array where arr[index]==index
 - Queue Design for a Simple E-Commerce Website
+- Spiral Matrix Printing
+- Longest Palindrome in a Sequence
+- File System Parser
+- Rolling Maximum of an Array
+- Longest Substring with Distinct Characters
