@@ -26,3 +26,4 @@ Contains Notebook with Programming Exercises and their Solutions
 - File System Parser
 - Rolling Maximum of an Array
 - Longest Substring with Distinct Characters
+- All Unique Character Bit Vector in a String
